@@ -7,17 +7,17 @@ EROX,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 EROXXX,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 EXTASY,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 Hustler,http://23.237.100.82:8000/HUSTLER/index.m3u8
-Hustler：https://live.iptvxxx.net/hustlertv.m3u8
-Jenny For You：https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
-Miami TV：https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+Hustler,https://live.iptvxxx.net/hustlertv.m3u8
+Jenny For You,https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
+Miami TV,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 Penhouse,http://23.237.100.82:8000/PENTHOUSE/index.m3u8
-Penhouse Gold: http://51.159.102.100/PenthouseGold/index.m3u8
-Penhouse Passion TV：https://live.iptvxxx.net/penthousepassiontv.m3u8
+Penhouse Gold,http://51.159.102.100/PenthouseGold/index.m3u8
+Penhouse Passion TV,https://live.iptvxxx.net/penthousepassiontv.m3u8
 Playboy,http://23.237.100.82:8000/PLAYBOY/index.m3u8
 Playboy,http://213.13.16.138/shls/LIVE%24Playboy_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 Playboy HD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 RedLight HD,http://51.159.102.100/RedlightHD/index.m3u8
-VISIT-X：https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+VISIT-X,https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 香蕉,p3p://167.114.175.6:55331/60626a760005067e6f5bbecb5816771e
 松视2,p3p://167.114.175.6:55331/60232b5f00007bc37850649979e379df
 松视3,p3p://167.114.175.6:55331/6109e9590001f40bfd9b661109395f3b
