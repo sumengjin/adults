@@ -160,14 +160,14 @@ FAKE TAXI,p3p://fccsen.dyndns.tv:29706/615a5c0e000a608eb9c93ef2199b14e4
 FORGIVE ME FATHER,p3p://fccsen.dyndns.tv:29706/615a5de90005f456b9d07d491f60478b
 FEMALE AGENT,p3p://fccsen.dyndns.tv:29706/615a5c4f0003cfabb9ca3b2a23026f71
 MOM TEACH SEX,p3p://fccsen.dyndns.tv:29706/615a6095000f18a6b9daef7b58eb58ee
-惊艳台：https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
-潘多拉：https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
-香蕉台：https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
-松视1台：https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
-松视2台：https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
-松视1台：https://z88.ubtvfans.com:443/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
-松视2台：https://z88.ubtvfans.com:443/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
-松视3台：https://z88.ubtvfans.com:443/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
+惊艳台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
+潘多拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
+香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
+松视1台,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
+松视2台,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
+松视1台,https://z88.ubtvfans.com:443/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
+松视2台,https://z88.ubtvfans.com:443/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
+松视3台,https://z88.ubtvfans.com:443/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
 香蕉台,http://z88.ubtvfans.com:443/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
 惊艳台,http://z88.ubtvfans.com/live/rx4/2931/0abbe9024509c229983e5c124e987107/index.m3u8
 彩虹电影,http://z88.ubtvfans.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
